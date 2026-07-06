@@ -1,0 +1,15 @@
+Step 1 : Start
+Step 2: INPUT SCORE
+
+Step 3 : F SCORE >=0 THEN 
+DISLPAY "WINNER"
+ELSE 
+
+Step 4 :IF SCORE == 0 THEN
+DISPLAY "TIE" 
+Step 5 : IF SCORE <=0 THEN 
+DISPLAY "LOSS"
+END IF 
+
+STEP 6 : OUTPUT
+Step 7 : END
