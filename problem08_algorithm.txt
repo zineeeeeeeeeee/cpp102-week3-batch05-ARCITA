@@ -1,0 +1,16 @@
+
+Step 1 : Start
+Step 2: INPUT Average
+
+
+Step 3 : IF Average >=90 THEN 
+DISLPAY "Eligible for Honor Roll"
+
+
+Step 4 : ELSE 
+DISPLAY "Not Eligible for Honor Roll "
+
+
+
+STEP 5 : OUTPUT
+Step 6 : END
