@@ -1,0 +1,12 @@
+Step 1 : Start
+Step 2: INPUT number
+
+
+
+Step 3 : IF number 2 = 0 THEN
+DISLPAY "EVEN"
+ELSE 
+DISPLAY "Odd"
+
+STEP 4 : OUTPUT
+Step 5 : END
