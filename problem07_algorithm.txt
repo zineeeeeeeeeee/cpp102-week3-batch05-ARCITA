@@ -1,0 +1,10 @@
+Step 1 : Start
+Step 2: INPUT SEATWORK
+Step 3 : INPUT QUIZ
+Step 4 : INPUT EXAM
+Step 5 :
+SEATWORK = SEATWORK % 30% 
+ QUIZ = EXAM 30%
+ EXAM = EXAM % 40%
+STEP 6 : OUTPUT
+Step 7 : END
