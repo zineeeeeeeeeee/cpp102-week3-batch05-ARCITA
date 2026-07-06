@@ -1,5 +1,6 @@
 Step 1 : Start
-Step 2: Input
-Step 3 : Process 
-Step 4 : Output
-Step 5 : End
+Step 2: INPUT GOAL    
+Step 3 : INPUT DISTANCE ALREADY COVERED 
+Step 4 : GOAL - DISTANCE ALREADY COVERED
+Step 5 : OUTPUT 
+STEP 6 : END
