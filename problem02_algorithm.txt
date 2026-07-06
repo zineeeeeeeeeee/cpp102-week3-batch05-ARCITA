@@ -1,1 +1,6 @@
-g
+Step 1 : Start
+Step 2: INPUT Width 
+Step 3 : INPUT length 
+Step 4 : Perimeter = Width + length
+Step 5 : OUTPUT 
+STEP 6 : END
