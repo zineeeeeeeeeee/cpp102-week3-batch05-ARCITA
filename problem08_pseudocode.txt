@@ -1,0 +1,8 @@
+START
+INPUT Average
+IF Average >=90 THEN 
+DISLPAY "Eligible for Honor Roll"
+ELSE 
+DISPLAY "Not Eligible for Honor Roll "
+END IF 
+END
