@@ -1,0 +1,5 @@
+START
+INPUT Length
+INPUT Width
+Perimeter = Length + Width 
+END
