@@ -1,6 +1,8 @@
 Step 1 : Start
-Step 2: INPUT WMP1 
-Step 3 : INPUT WMP2 
-Step 4 : INPUT WMP3
-Step 5 :  AVERAGE = (WMP1 +INPUT WMP2 + INPUT WMP3)/3
+Step 2: INPUT WPM1 
+Step 3 : INPUT WPM2 
+Step 4 : INPUT WPM3
+Step 5 :  AVERAGE = (WPM1 +WPM2 + WPM3)/3
 STEP 6 : END
+
+
